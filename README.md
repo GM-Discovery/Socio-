@@ -198,13 +198,15 @@ Fork this system if you:
 - 🎴 Create meaningfully — remix, reframe, reimagine
 - 🤝 Attribute openly — credit strengthens communities
 - 🛡️ Respect consent — safety and trust above all
-- ❤️ Honor Love — care is design
-- 🧠 Promote Truth — clarity builds good systems
-- ⚖️ Embrace Accountability — especially across power
-- 🌱 Prioritize Well-being — content has impact
-- 🕸️ Build Community — don't gatekeep
-- 🔍 Innovate — but never for novelty’s sake
-- 🕊️ Protect Freedom — of imagination and design
+
+
+❤️ Honor Love — care is design
+🧠 Promote Truth — clarity builds good systems
+⚖️ Embrace Accountability — especially across power
+🌱 Prioritize Well-being — content has impact
+🕸️ Build Community — don't gatekeep
+🔍 Innovate — Tell your own stories
+🕊️ Protect Freedom — of imagination and design
 
 **The fork is not betrayal.**  
 **It is the continuation of the story.**
