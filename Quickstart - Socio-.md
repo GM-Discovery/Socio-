@@ -202,6 +202,8 @@ If asked directly about the door:
 
 > Ra is a test of the stance system. He rewards emotional intelligence more than mechanical force.
 
+***---***
+
 #### Kessa – The Everything Merchant
 
 **Name:** Kessa  
