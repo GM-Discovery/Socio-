@@ -27,7 +27,7 @@ You don’t need to be a coder to use this. Just start reading 👇
 **New to the game? This module is your on-ramp.**  
 A system tutorial, character playground, and first scene all in one. Download it here:
 
-> 📄 [`Quickstart Game - The Locked Courtyard`](./Quickstart_-_Socio-.md)
+> 📄 [`Quickstart Game - The Locked Courtyard`](./Quickstart%20-%20Socio-.md)
 
 You’ll learn how to:
 - Create or choose a character 🧑🏽‍🤝‍🧑🏿
@@ -114,4 +114,4 @@ That means you can:
 Dreamed up for the stories we tell around the table—and the world we build off of it.
 
 ---
-🔗 [Starter Module →](./Quickstart_-_Socio-.md)
+🔗 [Starter Module →](./Quickstart%20-%20Socio-.md)
