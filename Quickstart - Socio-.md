@@ -879,7 +879,7 @@ Ten years before the present timeline, the Bread Standard is being piloted by a 
 
 - Use `Trade`, `Economics`, or `Networking` skills to influence Bread allocations, logistics, or reforms.
 
-- **Favor Points** still exist, but their exchange is often tied to contribution, mentorship, or narrative cooperation—not monetary gain.
+- **Validator Points**, A democractic-technocracy in which panels of 'validated' experts are democratically selected by institutions to lead society.
 
 ### 🏷️ Common Tags & Statuses
 
@@ -907,12 +907,12 @@ Ten years before the present timeline, the Bread Standard is being piloted by a 
 
 | Source                  | Description                             | Narrative Hook                                     |
 |-------------------------|-----------------------------------------|----------------------------------------------------|
-| **Trandian Food Lords** | Losing monopoly on bread exports        | Smear campaigns, economic sabotage                 |
+| **Trandian Food Lords** | Losing monopoly on exports              | Smear campaigns, economic sabotage                 |
 | **Local Elites**        | Fear loss of land-based leverage        | Vote rigging, conspiracies                         |
 | **Iron Shore Raiders**  | View guaranteed provision as weakness   | Military raids, hostage crises                     |
-| **Libertarian Underground** | Reject centralized provision       | Smuggling, ideological provocateurs                |
+| **Libertarian Underground** | Reject centralized provision        | Smuggling, ideological provocateurs                |
 | **Religious Opposition**| Claim Bread is heretical or secular     | Sermons, edicts, cultural backlash                 |
-| **Public Disillusionment**| Overpromising leads to unrest        | Protests, disobedience, collapse risk              |
+| **Public Disillusionment**| Overpromising leads to unrest         | Protests, disobedience, collapse risk              |
 | **Mythic Disruption**   | Symbols of Bread (trees, myths) decay   | Spiritual crisis, magical phenomena                |
 
 ---
