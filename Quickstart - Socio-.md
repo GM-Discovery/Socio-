@@ -3,7 +3,7 @@
 
 🖋️ *Written and designed by Grant Murray (GM Discovery)*  
 For more: [github.com/GM-Discovery](https://github.com/GM-Discovery)
-License: CC-BY-SA 4.0 unless otherwise stated.
+License: CC-BY 4.0 unless otherwise stated.
 ---
 
 # 📖 PART I: THE LOCKED COURTYARD
