@@ -1,7 +1,7 @@
-![Socio Banner](https://github.com/GM-Discovery/Socio-/blob/main/BannerSocioGitHub.png)
-[![Download Quickstart ZIP]([https://img.shields.io/badge/Download%20ZIP-Socio--Quickstart-blue?style=for-the-badge](https://github.com/GM-Discovery/Socio-/blob/main/BannerSocioGitHub.png))](https://github.com/GM-Discovery/Socio-/raw/main/quickstart/Socio-Quickstart.zip)
+[![Socio- Stories of Us Quickstart](https://github.com/GM-Discovery/Socio-/blob/main/BannerSocioGitHub.png)](https://github.com/GM-Discovery/Socio-/raw/main/quickstart/Socio-Quickstart-Guide.pdf)
 
-# 🌟 Welcome to *Socio-: Stories of Us* 👥🎲
+
+#  Welcome to *Socio-: Stories of Us* 
 
 > **A narrative-first tabletop RPG of emotional intelligence, collaborative storytelling, and stance-based social conflict.**
 
@@ -10,7 +10,7 @@ But who you are — and how you leave — depends on your voice.
 
 ---
 
-## 📘 What Is This Repository?
+## What Is This Repository?
 
 This is the **official GitHub home** of **Socio-**, a fully playable indie TTRPG system and storytelling engine. It includes:
 
@@ -30,7 +30,7 @@ You don’t need to be a coder to use this. Just start reading 👇
 **New to the game? This module is your on-ramp.**  
 A system tutorial, character playground, and first scene all in one. Download it here:
 
->  [`Quickstart Game - The Locked Courtyard`](./Quickstart%20-%20Socio-.md)
+>  [`Quickstart Game - The Locked Courtyard`](https://github.com/GM-Discovery/Socio-/blob/main/BannerSocioGitHub.png)
 
 You’ll learn how to:
 - Create or choose a character 🧑🏽‍🤝‍🧑🏿
@@ -41,7 +41,7 @@ You’ll learn how to:
 
 ---
 
-## 🎮 How to Play
+## How to Play
 
 🎲 **Roll skill dice** (starting at d4, rising with training)  
 📈 **Compare to a Target Value (TV)** — success or failure moves the story  
