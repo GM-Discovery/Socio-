@@ -1,3 +1,6 @@
+![Socio Banner](https://github.com/GM-Discovery/Socio-/blob/main/BannerSocioGitHub.png)
+[![Download Quickstart ZIP]([https://img.shields.io/badge/Download%20ZIP-Socio--Quickstart-blue?style=for-the-badge](https://github.com/GM-Discovery/Socio-/blob/main/BannerSocioGitHub.png))](https://github.com/GM-Discovery/Socio-/raw/main/quickstart/Socio-Quickstart.zip)
+
 # 🌟 Welcome to *Socio-: Stories of Us* 👥🎲
 
 > **A narrative-first tabletop RPG of emotional intelligence, collaborative storytelling, and stance-based social conflict.**
@@ -11,10 +14,10 @@ But who you are — and how you leave — depends on your voice.
 
 This is the **official GitHub home** of **Socio-**, a fully playable indie TTRPG system and storytelling engine. It includes:
 
-🌐 **Free-to-play rules** under open license  
-🎭 **The Starter Module**: *The Locked Courtyard*  
-🧠 **Core Mechanics** centered on emotional stance and player agency  
-📚 **Narrator guidance**, NPCs, pre-generated characters, and modular gear systems
+ **Free-to-play rules** under open license  
+ **The Starter Module**: *The Locked Courtyard*  
+ **Core Mechanics** centered on emotional stance and player agency  
+ **Narrator guidance**, NPCs, pre-generated characters, and modular gear systems
 
 You don’t need to be a coder to use this. Just start reading 👇
 
@@ -22,12 +25,12 @@ You don’t need to be a coder to use this. Just start reading 👇
 
 ## 🚪 Start Here: *The Locked Courtyard* — Our Starter Module
 
-![📖]
+
 
 **New to the game? This module is your on-ramp.**  
 A system tutorial, character playground, and first scene all in one. Download it here:
 
-> 📄 [`Quickstart Game - The Locked Courtyard`](./Quickstart%20-%20Socio-.md)
+>  [`Quickstart Game - The Locked Courtyard`](./Quickstart%20-%20Socio-.md)
 
 You’ll learn how to:
 - Create or choose a character 🧑🏽‍🤝‍🧑🏿
@@ -56,22 +59,6 @@ These stances affect outcomes dynamically. The world reacts to your tone, not ju
 
 ---
 
-## 👥 Pre-Generated Characters Included
-
-🎭 Start play instantly with a diverse cast of ready-to-go characters:
-- **Priya**, a daring influencer whose parkour makes the city her stage 📸
-- **Tim**, a memory-perfect advocate who turns bureaucracy into brilliance 🗃️
-- **Arash**, a reformed empire-builder learning to listen 💼
-- **Maria**, a master healer balancing tradition and transformation 🌄
-- **Juan**, an experienced fighter challenging anyone to break the peace 🛡️
-- **...and more** — each with unique skills, voice, and reason for being here.
-
-Each pre-gen includes:
-- Full stats and narrative lifepath
-- Signature traits and helper abilities
-- Built-in tensions, arcs, and story hooks
----
-
 ## 🔧 Want the Full Rules?
 
 The **FREE** complete *Socio-* Core Rules, including:
@@ -82,7 +69,7 @@ The **FREE** complete *Socio-* Core Rules, including:
 
 ...freely available in this repo now!
 
-> 💡 In the meantime, the starter module contains **everything you need** to run your first session.
+> 💡 In the meantime, the Quickstart module contains **everything you need** to run your first session.
 
 ---
 
