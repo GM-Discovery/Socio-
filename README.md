@@ -1,4 +1,4 @@
-[![Socio- Stories of Us Quickstart](https://github.com/GM-Discovery/Socio-/blob/main/BannerSocioGitHub.png)](https://github.com/GM-Discovery/Socio-/blob/main/Socio-%20Quickstart%20The%20Locked%20Courtyard.pdf)
+[![Socio- Stories of Us Quickstart](https://github.com/GM-Discovery/Socio-/blob/main/BannerSocioGitHub.png)](https://github.com/GM-Discovery/Socio-/raw/main/Socio-%20Quickstart%20The%20Locked%20Courtyard.pdf)
 
 
 #  Welcome to *Socio-: Stories of Us* 
