@@ -47,7 +47,7 @@ After you're ready, begin below.
 
 > Your characters are locked in a courtyard. We start there. Everyone is trying to leave at the same time and will find out the door is locked. Before we do that, you must figure out your character. I will now pass out character sheets. Your character can do whatever you would like to do in this courtyard. You can meet the other players' characters in the crowd, practice your skills, purchase equipment that is available, or otherwise prepare for the challenge of the locked door.
 
-**🎯 Narrator Decision Point:** You must now decide how you want to play the game. Players can take the characters presented at the end of this scenario and pass out pre-generated character sheets. Or you can read the core rules Chapters 1 and 2 to have players make their own characters. Once you have completed character selection, you should continue to **🛍️ The Courtyard Marketplace** to help give equipment to the characters.
+**🎯 Narrator Decision Point:** You must now decide how you want to play the game. Players can take the characters you present by passing out pre-generated character sheets. Or you can read the core rules Chapters 1 and 2 to have players make their own characters by passing out blank character sheets. Once you have completed character selection, you should continue to **🛍️ The Courtyard Marketplace** to help give equipment to the characters.
 
 > **🎓 Teaching Note:** This scene teaches gameplay one layer at a time: exploration, shopping, social interaction, skill rolls, and confrontation.
 
