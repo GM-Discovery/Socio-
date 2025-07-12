@@ -101,4 +101,4 @@ That means you can:
 Dreamed up for the stories we tell around the table—and the world we build off of it.
 
 ---
-🔗 [Starter Module →](./Quickstart%20-%20Socio-.md)
+🔗 [Starter Module →](./[Socio-%20Quickstart%20The%20Locked%20Courtyard.pdf]
