@@ -1,4 +1,4 @@
-[![Socio- Stories of Us Quickstart][Socio-Quickstart.zip](https://github.com/user-attachments/files/21342354/Socio-Quickstart.zip)
+(https://github.com/user-attachments/files/21342354/Socio-Quickstart.zip)
 [![Download Quickstart ZIP](https://github.com/GM-Discovery/Socio-/blob/main/BannerSocioGitHub.png)](https://github.com/GM-Discovery/Socio-/releases/latest/download/Socio-Quickstart.zip)
 
 
@@ -24,14 +24,12 @@ You don’t need to be a coder to use this. Just start reading 👇
 
 ---
 
-## 🚪 Start Here: *The Locked Courtyard* — Our Starter Module
-
-
+## 🚪 Start Here: *The Locked Courtyard* — Our Quickstart Module
 
 **New to the game? This module is your on-ramp.**  
 A system tutorial, character playground, and first scene all in one. Download it here:
 
->  [`Quickstart Game - The Locked Courtyard`](https://github.com/GM-Discovery/Socio-/blob/main/BannerSocioGitHub.png)
+
 
 You’ll learn how to:
 - Create or choose a character 🧑🏽‍🤝‍🧑🏿
