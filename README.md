@@ -1,4 +1,4 @@
-(https://github.com/user-attachments/files/21342354/Socio-Quickstart.zip)
+
 [![Download Quickstart ZIP](https://github.com/GM-Discovery/Socio-/blob/main/BannerSocioGitHub.png)](https://github.com/GM-Discovery/Socio-/releases/latest/download/Socio-Quickstart.zip)
 
 
